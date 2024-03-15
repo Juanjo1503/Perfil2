@@ -1,0 +1,42 @@
+*{
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color: darkslategray;
+}
+
+h2{
+    color: white;
+    background-color: rgb(4, 3, 3);
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    color: black;
+}
+
+.redes{
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+    text-transform: uppercase;
+}
+
+.foto{
+    border-radius: 1rem;
+    border: .2rem solid;
+    
+}
+.datos{
+    color: green;
+}
+
+.pasatiempos{
+    color: yellow;
+}
